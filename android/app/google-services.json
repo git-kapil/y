@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423586252017",
+    "firebase_url": "https://yellow-play-fd9d6.firebaseio.com",
+    "project_id": "yellow-play-fd9d6",
+    "storage_bucket": "yellow-play-fd9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423586252017:android:6158617dae0c1585d6d550",
+        "android_client_info": {
+          "package_name": "com.kapil.yellow_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423586252017-fdnrod8fbfh72edh4m00t8diqua6u9nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG5VMTsFjt4ESBoclQRoPOgqul6J-P3G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423586252017-fdnrod8fbfh72edh4m00t8diqua6u9nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
